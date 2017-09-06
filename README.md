@@ -1,0 +1,1 @@
+recording some of the commonly used notes
