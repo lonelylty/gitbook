@@ -7,5 +7,6 @@
     
  * [living]()
     * [眼保tips](living/eyes_tips.md)
+    * [mind](living/mind.md)
  * [playing]()
     

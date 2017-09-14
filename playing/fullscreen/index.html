@@ -26,6 +26,36 @@
             text-align: center; 
             font-family: Gotham, "Helvetica Neue", Helvetica, shojo, sans-serif; 
         }
+        .fd-span{
+            font-family:'shojo';
+            font-weight:bold;
+        }
+        .close {
+            text-decoration: none;
+            position: absolute;
+            top: 14px;
+            right: 14px;
+            width: 30px;
+            height: 30px;
+            line-height: 30px;
+            text-align: center;
+            color: #757575;
+            cursor: pointer;
+            -webkit-transition: all .2s;
+            transition: all .2s;
+            z-index: 10;
+            border-radius: 15px;
+            background: #e53935;
+            color: #fff;
+        }
+        .iconfont {
+            font-size: 24px;
+            font-family: "iconfont" !important;
+            font-style: normal;
+            -webkit-font-smoothing: antialiased;
+            -webkit-text-stroke-width: 0.2px;
+            -moz-osx-font-smoothing: grayscale;
+        }
 	</style>
 </head>
 <body>
@@ -34,10 +64,11 @@
     		<source src="http://221.228.226.5/3/q/b/f/s/qbfsaohtqvtspmvgyqfvkzxzcvgcrp/he.yinyuetai.com/8ABF01398CC629DAE4F7E8D971C7FA28.flv" type="video/mp4">
     	</video>
         <div class="fd">
-            <span style="font-family:'shojo';font-weight:bold;" ondblclick="FullScreen()">LISTEN 2</span>
+            <span class="fd-span">LISTEN 2</span>
             <br><br><br>
-            <a href="http://www.wuzuowei.net"  target="view_window" class="button button-glow button-border button-rounded button-highlight">BLOG.HAC-KER.NET</a>
+            <a href="http://www.wuzuowei.net"  target="view_window" class="button button-glow button-border button-rounded button-highlight">BLOG.LONELYLTY.COM</a>
     	</div>
+        <a class="close" href="#" onclick=""><i class="iconfont">x</i></a>
     </div>
 
     <script src="jquery.min.js"></script>

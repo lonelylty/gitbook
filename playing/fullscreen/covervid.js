@@ -56,7 +56,6 @@ jQuery.fn.extend({
 
 $('.covervid-video').coverVid(1920, 1080);
 
-
 var fullscreenState=false;
 function changeScreen(){
     
@@ -117,3 +116,11 @@ document.addEventListener("msfullscreenchange", function () {
       
     fullscreenState = (document.msFullscreenElement) ?true: false;  
 }, false);
+
+$(document).ready(function(){
+  $(".close").click(function(){
+    // $(".covervid-video")[0].ended=true;
+    $(".covervid-wrapper").fadeOut(4000);
+    $(".covervid-video")[0].pause();
+  });
+});
