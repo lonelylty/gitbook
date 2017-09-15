@@ -1,3 +1,11 @@
 vs2017 professional key: KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
 
 http://tool.oschina.net/jscompress/
+
+http://tornado-zh.readthedocs.io/zh/latest/escape.html
+
+https://www.gitbook.com/book/billie66/tlcl-cn/details
+
+* garbage cleaner
+https://www.piriform.com/ccleaner/download
+http://www.wisecleaner.com/wise-care-365.html
