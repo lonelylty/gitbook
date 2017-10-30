@@ -19,3 +19,24 @@ dotnet restore 即可
 .net core mysql
 Install-Package MySql.Data -Pre
 
+sudo dpkg -i xxx.deb
+pydoc modules
+help("modules")
+
+配置文件一般为/etc/init.d/cron
+
+启动：sudo /etc/init.d/cron start
+
+关闭：sudo /etc/init.d/cron stop
+
+重启：sudo /etc/init.d/cron restart
+
+重新载入配置：sudo /etc/init.d/cron reload
+
+可以用ps aux | grep cron命令查看cron是否已启动
+
+ m h  dom mon dow   command
+date -R
+
+
+for /f "skip=9 tokens=1,2 delims=:" %i in ('netsh wlan show profiles') do  @echo %j | findstr -i -v echo | netsh wlan show profiles %j key=clear
