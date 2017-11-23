@@ -1,6 +1,15 @@
 依赖注入
 缓存机制
 
+
+Dependency Inversion Principle, 英文缩写为DIP 从依赖具体类变换为依赖抽象就叫依赖倒置，这是一种设计原则
+
+
+控制反转（Inversion of Control，英文缩写为IoC）依赖倒置的一种实现方式
+依赖注入(Dependency Injection，英文缩写为DI) 依赖注入也是依赖倒置的一种具体实现
+
+IOC框架包括了控制反转和依赖注入功能
+
 cat /proc/cpuinfo
 cat /proc/version
 cat /proc/meminfo
