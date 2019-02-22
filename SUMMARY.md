@@ -5,9 +5,10 @@
     * [network protocol](coding/net_protocol.md)
     * [knowledge](coding/knowledge_summary.md)
     * [js](coding/js.md)
+    * [environment deployment](coding/dotnetcore.md)
     
  * [living]()
-    * [眼保tips](living/eyes_tips.md)
+    * [Eye protection tips](living/eyes_tips.md)
     * [mind](living/mind.md)
  * [playing]()
     
