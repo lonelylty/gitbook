@@ -6,9 +6,12 @@
     * [knowledge](coding/knowledge_summary.md)
     * [js](coding/js.md)
     * [environment deployment](coding/dotnetcore.md)
+    * [release nuget package](coding/release_nuget_pack.md)
     
  * [living]()
     * [Eye protection tips](living/eyes_tips.md)
     * [mind](living/mind.md)
+    * [investments](living/investments.md)
+    
  * [playing]()
     
