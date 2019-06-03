@@ -8,6 +8,7 @@
     * [release nuget package](coding/release_nuget_pack.md)
     * [free https](coding/free_https.md)
     * [dotnet core](coding/dotnetcore.md)
+    * [shadowsocks](coding/shadowsocks.md)
     
  * [living]()
     * [Eye protection tips](living/eyes_tips.md)
