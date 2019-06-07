@@ -29,6 +29,7 @@ sudo docker run -i \
 
 
 如果按照上面做还是出现Permission denied错误，那么可以检查一下selinux状态，开启的情况下会导致一些服务安装、使用不成功
+```
 setenforce 0
 
 netstat -ntlp
@@ -47,7 +48,7 @@ gitlab_rails['git_timeout']=90
 gitlab-ctl reconfigure
 gitlab-ctl restart
 gitlab-ctl status
-
+```
 交互方式
 docker run -it --name 容器名称 镜像 /bin/bash
 
@@ -62,6 +63,5 @@ docker save gitlab/gitlab-ce:latest > /usr/gitlab_docker.tar.gz
 
 docker load < /usr/gitlab_docker.tar.gz
 
-ubuntu install docker doc http://www.cnblogs.com/xishuai/p/ubuntu-install-docker.html
-
-centos install docker doc http://www.adocker.cn/archives/2777
+[ubuntu install docker doc](http://www.cnblogs.com/xishuai/p/ubuntu-install-docker.html)
+[centos install docker doc](http://www.adocker.cn/archives/2777)
