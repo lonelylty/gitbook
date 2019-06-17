@@ -18,4 +18,5 @@
     * [2018/12/06_investments](living/investments.md)
     
  * [playing]()
+    * [2019/03/03_hiphop](living/hiphop_intro.md)
     
