@@ -6,3 +6,7 @@
 
 [Design Patterns Doc](https://design-patterns.readthedocs.io)
 
+[Mysql Index](https://tech.meituan.com/2014/06/30/mysql-index.html)
+
+
+

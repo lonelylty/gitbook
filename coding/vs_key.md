@@ -5,18 +5,24 @@ Visual Studio 2019 Enterprise: BF8Y8-GN2QH-T84XB-QVY3B-RC4DF
 
 Visual Studio 2019 Professional: NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y
 
+* static resource compress
 
 http://tool.oschina.net/jscompress/
 
 https://www.sojson.com/yasuo.html
 
+* tornado doc
+
 http://tornado-zh.readthedocs.io/zh/latest/escape.html
+
+* gitbook hub
 
 https://www.gitbook.com/book/billie66/tlcl-cn/details
 
 * garbage cleaner
 
 https://www.piriform.com/ccleaner/download
+
 http://www.wisecleaner.com/wise-care-365.html
 
 * .net core 2.0 api
