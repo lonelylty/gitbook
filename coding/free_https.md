@@ -5,7 +5,7 @@ wget https://dl.eff.org/certbot-auto
 
 chmod a+x certbot-auto # executable authority
 
-./certbot-auto certonly  -d "*.xxx.com" "xxx.com" --manual --preferred-challenges dns-01  --server https://acme-v02.api.letsencrypt.org/directory
+./certbot-auto certonly  -d "*.xxx.com" -d "xxx.com" --manual --preferred-challenges dns-01  --server https://acme-v02.api.letsencrypt.org/directory
 
 dig  -t txt _acme-challenge.xxx.com @8.8.8.8
 
