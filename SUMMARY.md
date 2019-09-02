@@ -1,5 +1,6 @@
 #Summary
  * [coding]()
+    * [2016/11/03_sql optimization principle](coding/sql_optimization_principle.md)
     * [2017/06/03_shadowsocks](coding/shadowsocks.md)
     * [2017/08/19_docker for gitlab install](coding/gitlab_docker.md)
     * [2018/02/15_dotnet core](coding/dotnetcore.md)
@@ -10,12 +11,12 @@
     * [2018/11/03_environment deployment](coding/siteconfig.md)
     * [2018/11/23_release nuget package](coding/release_nuget_pack.md)
     * [2018/12/04_free https](coding/free_https.md)
-    * [2019/02/06_sql optimization principle](coding/sql_optimization_principle.md)
+    * [2019/02/06_http_status_code](coding/http_status_code.md)
     
  * [living]()
     * [2017/03/03_Eye protection tips](living/eyes_tips.md)
     * [2018/07/15_mind](living/mind.md)
-    * [2018/12/06_investments](living/investments.md)
+    # * [2018/12/06_investments](living/investments.md)
     
  * [playing]()
     * [2019/03/03_hiphop](playing/hiphop_intro.md)
