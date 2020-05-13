@@ -11,7 +11,7 @@
     * [2018/11/03_environment deployment](coding/siteconfig.md)
     * [2018/11/23_release nuget package](coding/release_nuget_pack.md)
     * [2018/12/04_free https](coding/free_https.md)
-    * [2019/02/06_http_status_code](coding/http_status_code.md)
+    * [2019/02/06_http status code](coding/http_status_code.md)
     * [2020/04/29_EFmigrationCmdLine](coding/EFmigrationCmdLine.md)
     
  * [living]()
