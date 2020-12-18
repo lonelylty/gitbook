@@ -12,6 +12,7 @@
     * [2018/11/23_release nuget package](coding/release_nuget_pack.md)
     * [2018/12/04_free https](coding/free_https.md)
     * [2020/04/29_EFmigrationCmdLine](coding/EFmigrationCmdLine.md)
+    * [2020/12/18_push docker image to aws](coding/push_dockerimage_to_aws.md)
     
  * [living]()
     * [2017/03/03_Eye protection tips](living/eyes_tips.md)
