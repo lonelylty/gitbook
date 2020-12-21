@@ -6,6 +6,10 @@ https://docs.aws.amazon.com/zh_cn/cli/latest/userguide/install-cliv2.html
 
 - aws configure
 
+```bash
+aws configure
+```
+
 remove `.docker/config.json`  line if have  `"credsStore": "wincred"`
 
 - use aws password to login docker
