@@ -1,31 +1,9 @@
-download nuget client
-
-https://www.nuget.org/downloads
-
 regeister nuget api key
 
 https://www.nuget.org/account/apikeys
 
 ```bash
-nuget setApiKey <api_key> oy2ao6iij3z23hphibhatkbqdliwyqee5opksklgtckr2i
+dotnet nuget push .\<pack_name> --api-key <api_key> --source https://api.nuget.org/v3/index.json
 
-nuget spec
-
-nuget pack <proj_name> -Prop Configuration=Release
-
-nuget push <pack_name> -NonInteractive -Source https://www.nuget.org/api/v2/package
+<api_key> oy2ao6iij3z23hphibhatkbqdliwyqee5opksklgtckr2i
 ```
-
-tips:
-
-.nuspec file format
-
-<license type="expression">MIT</license>
-
-sysdm.cpl
-
-<ItemGroup>
-    <EmbeddedResource Include="wkhtmltoimage.exe">
-      <IncludeInPackage>true</IncludeInPackage>
-    </EmbeddedResource>
-</ItemGroup>
