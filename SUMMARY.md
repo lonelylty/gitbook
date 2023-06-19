@@ -21,7 +21,7 @@
  * [living]()
     * [2017/03/03_Eye protection tips](living/eyes_tips.md)
     * [2018/07/15_mind](living/mind.md)
-    # * [2018/12/06_investments](living/investments.md)
+    * [2018/12/06_investments](living/investments.md)
     
  * [playing]()
     * [2019/03/03_hiphop](playing/hiphop_intro.md)
