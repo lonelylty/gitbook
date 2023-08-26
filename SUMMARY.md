@@ -1,7 +1,7 @@
 #Summary
  * [coding]()
     * [2016/11/03_sql optimization principle](coding/sql_optimization_principle.md)
-    * [2017/06/03_shadowsocks](coding/shadowsocks.md)
+    
     * [2017/08/19_docker for gitlab install](coding/gitlab_docker.md)
     * [2018/02/15_dotnet core](coding/dotnetcore.md)
     * [2018/06/16_vs key](coding/vs_key.md)
@@ -19,6 +19,7 @@
     
 
  * [living]()
+    * [2017/06/03_shadowsocks](coding/shadowsocks.md)
     * [2017/03/03_Eye protection tips](living/eyes_tips.md)
     * [2018/07/15_mind](living/mind.md)
     * [2018/12/06_investments](living/investments.md)
