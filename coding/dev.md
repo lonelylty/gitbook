@@ -1,7 +1,10 @@
 
 诊所的医疗就诊流程系统 （诊所用）
+
 https://healshealthcare.com/
+
 https://pop.softlinkmedical.com.hk/content.htm  c/s
+
 https://softlinkmedical.com.hk/author/softlinkloretta/  b/s
 
 第一阶段
@@ -18,4 +21,7 @@ https://softlinkmedical.com.hk/author/softlinkloretta/  b/s
 工作日每天上午开个Standup Daily会议 （昨天干了什么，今天准备做什么）
 
 项目管理 开源的禅道
+
 收费的 Clickup
+
+portainer.io
