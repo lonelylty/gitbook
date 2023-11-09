@@ -2,7 +2,7 @@
 
 读写锁 ReaderWriterLockSlim 、就是 支持单个写线程和多个读线程的锁
 
-```c#
+```cs
 using System;
 using System.Collections.Generic;
 using System.Threading;
